@@ -1,5 +1,5 @@
 # wenda-SNS-project
-仿知乎问答项目-SpringBoot
+信息交流平台（仿知乎问答项目-SpringBoot）
 
 # 1.注册登录功能实现：
 数据库表格
